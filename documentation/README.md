@@ -203,6 +203,6 @@ Behavioral_Weight(week) = 100% - Quiz_Weight(week)
 
 **Documentation Version:** 1.0
 **Last Updated:** August 2025
-**Support Contact:** [To be added]
+**Support Contact:** simon.education.tracker@gmail.com
 **License:** MIT - Free for educational use and modification
 **Contributing:** See GitHub issues for feature requests and bug reports
