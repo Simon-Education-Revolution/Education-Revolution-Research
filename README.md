@@ -72,3 +72,9 @@ If using this research, please cite:
 ```
 Simon. (2025). Education Revolution Research: Personalized Learning Optimization. 
 GitHub. https://github.com/simon-education-revolution/education-revolution-research
+```
+
+## 📜 License
+
+MIT License - Feel free to use, modify, and distribute this research.
+
