@@ -105,6 +105,6 @@
 ---
 
 **Experiment Log Version:** 1.0
-**Principal Investigator:** Simon, Institut International de Lancy
+**Principal Investigator:** Simon
 **Review Schedule:** Weekly during active phases
 **Data Backup:** All raw data stored in `/data` folder with version control
